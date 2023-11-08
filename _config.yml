@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kang Tang"
+title                    : "Kang Tang (唐康)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kang Tang"
+  name             : "Kang Tang (唐康)"
   avatar           : "profile.jpg"
   bio              : "Third-year postgraduate student in Southern University of Science and Technology."
   location         : "Shenzhen, China"
