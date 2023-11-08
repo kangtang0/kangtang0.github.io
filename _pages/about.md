@@ -22,6 +22,7 @@ Research Interests
 Education
 ======
 * M.E. in Robotics, Southern University of Science and Technology, 2024 (expected)
+  * GPA: 3.63/4.00 (4/51, 10%)
 * B.E. in Mechanical Engineering, Southern University of Science and Technology, 2019
 
 Experience
