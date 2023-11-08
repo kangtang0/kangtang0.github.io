@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Jun. 2019 - Aug. 2020: Research Assistant
   * Southern University of Science and Technology
   * Duties included: teaching assistance, website development
   * Supervisor: Professor [Yan Wei](https://www.sustech.edu.cn/en/faculties/weiyan.html)
@@ -37,9 +37,9 @@ Skills
 
 Publications
 ======
-* A first author paper submitted to IEEE Radar Conference (2024). Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization (under review).
-* A first author paper submitted to IEEE Signal Processing Letters. Optimal Sensor Placement Using Decentralized TDOA System in Target Localization (under review).
-* A first author paper to be submitted to IEEE Transactions on Vehicular Technology. Frame Theory for Optimal Sensor Placement Using 3D Hybrid RSS-TOA-AOA Measurements in Source Localization.
+* A first-author paper submitted to the IEEE Radar Conference (2024). Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization (under review).
+* A first-author paper submitted to IEEE Signal Processing Letters. Optimal Sensor Placement Using Decentralized TDOA System in Target Localization (under review).
+* A first-author paper to be submitted to IEEE Transactions on Vehicular Technology. Frame Theory for Optimal Sensor Placement Using 3D Hybrid RSS-TOA-AOA Measurements in Source Localization.
 * Chinese patent. A Type of Optical System in LiDAR (under review)
   
   
