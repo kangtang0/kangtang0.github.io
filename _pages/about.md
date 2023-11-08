@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year postgraduate student from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), [Southern University of Science and Technology](https://www.sustech.edu.cn/). I am very fortunate to be advised by [Prof. Yongsheng Ma](https://www.XXX.com/) of Engineering Informatics Lab from the Department of Mechanical and Energy Engineering, Southern University of Science and Technology. I also work with [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8) from [Shenzhen Institute of Advanced Technology](http://english.siat.cas.cn/), Chinese Academy of Sciences.
+I'm a third-year postgraduate student from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), [Southern University of Science and Technology](https://www.sustech.edu.cn/), advised by [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I also work closely with [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8) from [Shenzhen Institute of Advanced Technology](http://english.siat.cas.cn/), Chinese Academy of Sciences.
 
 You can find my CV here: [Kang Tang's Curriculum Vitae](../files/CV_Kang Tang.pdf).
 
-<font color=LightSalmon> I am looking for a PhD position enrolled on fall 2024; if you are interested in me, please feel free to contact me:</font> [Email](mailto:12132291@mail.sustech.edu.cn)/ [Wechat](../images/Kang_wechat.jpg)
+<font color=LightSalmon> I am looking for a PhD position enrolled on fall 2024; if you are interested in me, please feel free to contact me:</font>
+
+Email:12132291[AT]mail.sustech.edu.cn/ Wechat: tanyehuo
 
 Research Interests
 ======
