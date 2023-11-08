@@ -12,7 +12,7 @@ I'm a third-year postgraduate student from [Department of Mechanical and Energy 
 
 You can find my CV here: [Kang Tang's Curriculum Vitae](../files/CV_Kang Tang.pdf).
 
-<font color=LightSalmon> I am looking for a PhD position enrolled on fall 2024; if you are interested in me, please feel free to contact me:</font>
+<font color=LightSalmon> I am looking for a PhD position enrolled on fall 2024; if you are interested in me, please feel free to contact me.</font>
 
 Email:12132291[AT]mail.sustech.edu.cn/ Wechat: tanyehuo
 
