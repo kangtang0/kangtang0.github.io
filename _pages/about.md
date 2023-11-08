@@ -29,10 +29,14 @@ Education
 
 Experience
 ======
+* May 2023 - Jun. 2024 (expected): Intern
+  * University of North Carolina at Charlotte
+  * Topic: mmWave-based human sensing systems
+  * Supervisor: [Prof. Hongfei Xue](https://havocfixer.github.io/)
 * Jun. 2019 - Aug. 2020: Research Assistant
   * Southern University of Science and Technology
   * Duties included teaching assistance, website development
-  * Supervisor: Professor [Yan Wei](https://www.sustech.edu.cn/en/faculties/weiyan.html)
+  * Supervisor: [Prof. Yan Wei](https://www.sustech.edu.cn/en/faculties/weiyan.html)
   
 Skills
 ======
