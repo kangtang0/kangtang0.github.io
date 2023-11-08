@@ -48,7 +48,7 @@ Publications
   * The sensor–target placement plays a pivotal role in improving the localization accuracy; the commonly used evaluation function for this problem is built by Cramer–Rao lower bound (CRLB) or Fisher information matrix (FIM). Frame theory, which was developed recently, can provide a more easily tractable evaluation function, especially for some complex cases. In this letter, we derive an optimal sensor placement strategy by frame theory and prove its equivalence with the method by CRLB and FIM. For the hybrid angle-of-arrival (AOA), received-signal-strength (RSS) and time-of-arrival (TOA) measurements based localization system, we also present the optimal sensor augmentation problem with a fixed sensor and a new sensor and for arbitrary but fixed distances between the new sensor and the target. The conclusions are verified by several simulations.
 * Chinese patent. A Type of Optical System in LiDAR (under review)
   
-Teaching Assistance
+Teaching Assistant
 ======
 * MEE 5201 - Innovation Design Theory and Application, Fall 2021
 
