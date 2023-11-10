@@ -12,7 +12,7 @@ I'm a third-year postgraduate student from [Department of Mechanical and Energy 
 
 You can find my CV here: [Kang Tang's Curriculum Vitae](../files/CV_Kang Tang.pdf).
 
-Email:12132291[AT]mail.sustech.edu.cn / Wechat: tanyehuo
+Email:12132291@mail.sustech.edu.cn / Wechat: tanyehuo
 
 <font color=LightSalmon> I am looking for a PhD position enrolled on fall 2024; if you are interested in me, please feel free to contact me.</font><br/>
 
@@ -25,6 +25,7 @@ Education
 ======
 * M.E. in Robotics, Southern University of Science and Technology, 2024 (expected)
   * GPA: 3.63/4.00 (4/51, 10%)
+  * Core course: Intelligent Data Analysis (A-), Matrix Analysis (A-), Fundamental of Information Technology (A+), Theory and Practice of Innovative Design (A), Continuum Mechanics (A+), Optimization in Engineering (B), Advanced Numerical Analysis (B)
 * B.E. in Mechanical Engineering, Southern University of Science and Technology, 2019
 
 Experience
@@ -60,6 +61,6 @@ Teaching Assistant
 
 Awards
 ======
-* Third price. Formula Students Electrical China (2018).
-* Second price. China Undergraduate Mathematical Contest in Modeling (2019).
-* Third price. Capstone in the College of Engineering (2019).
+* Third prize. Formula Students Electrical China (2018).
+* Second prize. China Undergraduate Mathematical Contest in Modeling (2019).
+* Third prize. Capstone in the College of Engineering (2019).
