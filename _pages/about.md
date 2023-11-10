@@ -62,4 +62,4 @@ Awards
 ======
 * Third price. Formula Students Electrical China (2018).
 * Second price. China Undergraduate Mathematical Contest in Modeling (2019).
-* Third price. Capital stone in the College of Engineering (2019).
+* Third price. Capstone in the College of Engineering (2019).
