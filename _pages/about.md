@@ -18,7 +18,7 @@ Email:12132291@mail.sustech.edu.cn / Wechat: tanyehuo
 
 Research Interests
 ======
-* Mobile Robotics, Source Localization, State Estimation
+* Mobile Robotics, Wireless Networks, Source Localization, State Estimation
 * Human Sensing, Intelligent Wireless Sensing Systems, Machine Learning
 * Optimization Theory, Allocation and Decision.
 
