@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Kang Tang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,8 +18,9 @@ Email:12132291@mail.sustech.edu.cn / Wechat: tanyehuo
 
 Research Interests
 ======
-* Signal Processing, Source Localization, State Estimation
+* Mobile Robotics, Source Localization, State Estimation
 * Human Sensing, Intelligent Wireless Sensing Systems, Machine Learning
+* Optimization Theory, Allocation and Decision.
 
 Education
 ======
