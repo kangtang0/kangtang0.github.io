@@ -31,10 +31,18 @@ Education
 
 Experience
 ======
+* Feb. 2023 - Jun. 2024 (expected): Thesis
+  * Southern University of Science and Technology
+  * Topic: optimal sensor placement in source localization and tracking
+  * Supervisor: Prof. Yongsheng Ma & Prof. Sheng Xu
 * May 2023 - Jun. 2024 (expected): Intern
   * University of North Carolina at Charlotte
   * Topic: mmWave-based human sensing systems
   * Supervisor: [Prof. Hongfei Xue](https://havocfixer.github.io/)
+* Sep. 2022 - May 2023: Research project
+  * Southern University of Science and Technology
+  * Topic: event camera-based simultaneous localization and mapping (SLAM) in mobile robots
+  * Supervisor: Prof. Yongsheng Ma
 * Jun. 2019 - Aug. 2020: Research Assistant
   * Southern University of Science and Technology
   * Duties included teaching assistance, website development
