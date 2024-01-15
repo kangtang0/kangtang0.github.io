@@ -20,7 +20,7 @@ Research Interests
 ======
 * Mobile Robotics, Wireless Networks, Source Localization, State Estimation
 * Inverse Problem, Optimization Theory, Allocation and Decision.
-* Human Sensing, Intelligent Wireless Sensing Systems, Machine Learning
+* Wireless Sensing, Computer Graphics, Machine Learning
 
 Education
 ======
