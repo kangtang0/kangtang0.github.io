@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year postgraduate student from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), advised by [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I also work closely with [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8) from [Shenzhen Institute of Advanced Technology](http://english.siat.cas.cn/), Chinese Academy of Sciences and [Prof. Hongfei Xue](https://havocfixer.github.io/) from [University of North Carolina at Charlotte](https://www.charlotte.edu/).
+I'm a third-year postgraduate student from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), advised by [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I also work closely with [Prof. He Kong](https://scholar.google.com.au/citations?user=MSuIvW4AAAAJ&hl=en) from SUSTech, [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8) from [Shenzhen Institute of Advanced Technology](http://english.siat.cas.cn/), Chinese Academy of Sciences and [Prof. Hongfei Xue](https://havocfixer.github.io/) from [University of North Carolina at Charlotte](https://www.charlotte.edu/).
 
 You can find my CV here: [Kang Tang's Curriculum Vitae](../files/CV_Tang.pdf).
 
