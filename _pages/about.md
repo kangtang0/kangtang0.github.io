@@ -34,7 +34,7 @@ Experience
 * Feb. 2023 - Jun. 2024 (expected): Thesis
   * Southern University of Science and Technology
   * Topic: optimal sensor placement in source localization and tracking
-  * Supervisor: Prof. Yongsheng Ma & Prof. Sheng Xu
+  * Supervisor: Prof. Yongsheng Ma
 * May 2023 - Jun. 2024 (expected): Intern
   * University of North Carolina at Charlotte
   * Topic: mmWave-based human sensing systems
