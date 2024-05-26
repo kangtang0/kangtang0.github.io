@@ -26,7 +26,7 @@ Education
 ======
 * M.E. in Robotics, Southern University of Science and Technology, 2024 (expected)
   * GPA: 3.64/4.00 (4/51, 10%)
-  * Core courses: Intelligent Data Analysis (A-), Matrix Analysis (A-), Fundamental of Information Technology (A+), Theory and Practice of Innovative Design (A), Continuum Mechanics (A+), Optimization in Engineering (B), Advanced Numerical Analysis (B)
+  * Core courses: Intelligent Data Analysis (Machine learning), Matrix Analysis, Fundamental of Information Technology, Fundamentals of Robotics, Intelligent Robots Algorithms, Optimization in Engineering (Operations).
 * B.E. in Mechanical Engineering, Southern University of Science and Technology, 2019
 
 Experience
