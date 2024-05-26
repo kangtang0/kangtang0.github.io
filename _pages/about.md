@@ -70,6 +70,7 @@ Teaching Assistant
 
 Awards
 ======
+* MEE outstanding graduates (2024).
 * Third prize. Formula Students Electrical China (2017,2018).
 * Second prize. China Undergraduate Mathematical Contest in Modeling (2017, 2018).
 * Third prize. Capstone in the College of Engineering (2019).
