@@ -14,7 +14,7 @@ You can find my CV here: [Kang Tang's Curriculum Vitae](../files/CV_Tang.pdf).
 
 Email:12132291@mail.sustech.edu.cn / Wechat: tanyehuo
 
-<font color=LightSalmon> I am looking for a PhD position enrolled on fall 2024; if you are interested in me, please feel free to contact me.</font><br/>
+<font color=LightSalmon> I am looking for a PhD position enrolled on 24fall/25spring; if you are interested in me, please feel free to contact me.</font><br/>
 
 Research Interests
 ======
