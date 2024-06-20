@@ -12,7 +12,7 @@ I'm a third-year postgraduate student from [Department of Mechanical and Energy 
 
 You can find my CV here: [Kang Tang's Curriculum Vitae](../files/CV_Tang.pdf).
 
-Email:12132291@mail.sustech.edu.cn / Wechat: tanyehuo
+Email:12132291@mail.sustech.edu.cn
 
 <font color=LightSalmon> I am looking for a PhD position enrolled on 24fall/25spring; if you are interested in me, please feel free to contact me.</font><br/>
 
@@ -24,24 +24,28 @@ Research Interests
 
 Education
 ======
-* M.E. in Robotics, Southern University of Science and Technology, 2024 (expected)
+* M.E. in Robotics, Southern University of Science and Technology, 2024
   * GPA: 3.64/4.00 (4/51, 10%)
   * Core courses: Intelligent Data Analysis (Machine learning), Matrix Analysis, Fundamental of Information Technology, Fundamentals of Robotics, Intelligent Robots Algorithms, Optimization in Engineering (Operations).
 * B.E. in Mechanical Engineering, Southern University of Science and Technology, 2019
 
 Experience
 ======
-* Feb. 2023 - Jun. 2024 (expected): Thesis
-  * Southern University of Science and Technology
-  * Topic: optimal sensor placement in source localization and tracking
-  * Supervisor: Prof. Yongsheng Ma
-* May 2023 - Jun. 2024 (expected): Intern
+* May 2023 - : Research Intern
   * University of North Carolina at Charlotte
-  * Topic: mmWave-based human sensing systems
+  * Topic: mmWave-based Human Reconstruction Using Computer Graphics and Deep Learning Tools
   * Supervisor: [Prof. Hongfei Xue](https://havocfixer.github.io/)
+* Jun. 2024 - Aug. 2024: Research Assistant
+  * Chinese Academy of Sciences
+  * Topic: Information-based Target Localization and Tracking with Multi-robots
+  * Supervisor: Prof. Yongsheng Ma
+* Feb. 2023 - Jun. 2024: Master's Thesis
+  * Southern University of Science and Technology
+  * Topic: Optimal Sensor Placement in Source Localization and Tracking
+  * Supervisor: Prof. Yongsheng Ma
 * Sep. 2022 - May 2023: Research project
   * Southern University of Science and Technology
-  * Topic: event camera-based simultaneous localization and mapping (SLAM) in mobile robots
+  * Topic: Event Camera-based Simultaneous Localization and Mapping (SLAM)
   * Supervisor: Prof. Yongsheng Ma
 * Jun. 2019 - Aug. 2020: Research Assistant
   * Southern University of Science and Technology
