@@ -18,7 +18,7 @@ Email:12132291@mail.sustech.edu.cn
 
 Research Interests
 ======
-* Multi-robots Systems, Source Localization, State Estimation
+* Multi-robot Systems, Source Localization, State Estimation
 * Wireless Communication, Signal Processing, Optimization Theory
 * Wireless Sensing, Computer Graphics, Machine Learning
 
@@ -37,7 +37,7 @@ Experience
   * Supervisor: [Prof. Hongfei Xue](https://havocfixer.github.io/)
 * Jun. 2024 - Aug. 2024: Research Assistant
   * Chinese Academy of Sciences
-  * Topic: Information-based Target Localization and Tracking with Multi-robots
+  * Topic: Information-based Target Localization and Tracking with Multi-robot System
   * Supervisor: Prof. Sheng Xu
 * Feb. 2023 - Jun. 2024: Master's Thesis
   * Southern University of Science and Technology
