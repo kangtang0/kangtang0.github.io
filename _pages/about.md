@@ -18,8 +18,8 @@ Email:12132291@mail.sustech.edu.cn
 
 Research Interests
 ======
-* Mobile Robotics, Wireless Networks, Source Localization, State Estimation
-* Inverse Problem, Optimization Theory, Allocation and Decision.
+* Multi-robots Systems, Source Localization, State Estimation
+* Wireless Communication, Signal Processing, Optimization Theory
 * Wireless Sensing, Computer Graphics, Machine Learning
 
 Education
@@ -38,7 +38,7 @@ Experience
 * Jun. 2024 - Aug. 2024: Research Assistant
   * Chinese Academy of Sciences
   * Topic: Information-based Target Localization and Tracking with Multi-robots
-  * Supervisor: Prof. Yongsheng Ma
+  * Supervisor: Prof. Sheng Xu
 * Feb. 2023 - Jun. 2024: Master's Thesis
   * Southern University of Science and Technology
   * Topic: Optimal Sensor Placement in Source Localization and Tracking
