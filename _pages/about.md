@@ -14,13 +14,13 @@ You can find my CV here: [Kang Tang's Curriculum Vitae](../files/CV_Tang.pdf).
 
 Email:12132291@mail.sustech.edu.cn
 
-<font color=LightSalmon> I am looking for a PhD position enrolled on 24fall/25spring; if you are interested in me, please feel free to contact me.</font><br/>
+<font color=LightSalmon> I am a incoming PhD student of McMaster University</font><br/>
 
 Research Interests
 ======
-* Multi-robot Systems, Source Localization, State Estimation
-* Wireless Communication, Signal Processing, Optimization Theory
-* Wireless Sensing, Computer Graphics, Machine Learning
+* Connected Autonomous Vehicles, Optimization Theory
+* Wireless Sensing, Render-based Simulation, Machine Learning
+* Wireless Communication, State Estimation, Signal Processing
 
 Education
 ======
