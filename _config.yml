@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kang Tang (唐康)"
   avatar           : "profile.jpg"
-  bio              : "Postgraduate student @ SUSTech"
-  location         : "Shenzhen, China"
+  bio              : "PhD. student @ McMaster"
+  location         : "Hamilton, ON, Canada"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=CiyntyQAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
