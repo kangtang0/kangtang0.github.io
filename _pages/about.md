@@ -21,6 +21,7 @@ Research Interests
 
 Education
 ======
+* PhD. in Transportation Engineering, McMaster University, 2025-2028
 * M.E. in Robotics, Southern University of Science and Technology, 2024
   * GPA: 3.64/4.00 (4/51, 10%)
   * Core courses: Intelligent Data Analysis (Machine learning), Matrix Analysis, Fundamental of Information Technology, Fundamentals of Robotics, Intelligent Robots Algorithms, Optimization in Engineering (Operations).
