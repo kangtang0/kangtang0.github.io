@@ -23,9 +23,10 @@ Education
 ======
 * PhD. in Transportation Engineering, 2025-2028
   * McMaster University, ON, Cnanada
-* M.E. in Robotics, Southern University of Science and Technology, 2024
-  * GPA: 3.64/4.00 (4/51, 10%)
-* B.E. in Mechanical Engineering, Southern University of Science and Technology, 2019
+* M.E. in Robotics, 2024
+  * Southern University of Science and Technology, Shenzhen, China
+* B.E. in Mechanical Engineering, 2019
+  * Southern University of Science and Technology, Shenzhen, China
 
 Experience
 ======
