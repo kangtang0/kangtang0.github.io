@@ -50,9 +50,7 @@ Experience
 Publications
 ======
 * K. Tang, S. Xu, Y. Yang, H. Kong and Y. Ma, "Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization," 2024 IEEE Radar Conference (RadarConf24), Denver, CO, USA, 2024, pp. 1-6, doi: [10.1109/RadarConf2458775.2024.10548509](https://ieeexplore.ieee.org/document/10548509).
-* Kang Tang, Sheng Xu, Yuqi Yang, and Yongsheng Ma. "Optimal Sensor Placement Using Decentralized TDOA Sensor Network in Target Localization" (submitted to IEEE WCL, under review).
-* A first-author paper to be submitted to IEEE Transactions on Vehicular Technology. "Frame Theory for Optimal Sensor Placement Using 3D Hybrid RSS-TOA-AOA Measurements in Source Localization."
-* Chinese patent. A Type of Novel LiDAR (Chinese patent No. CN219609222U)
+
   
 Teaching Assistant
 ======
