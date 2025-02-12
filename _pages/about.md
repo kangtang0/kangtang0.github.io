@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in [Transportation Engineering](https://www.eng.mcmaster.ca/civil/) at the [McMaster University](https://www.mcmaster.ca/), supervised by [Dr. Hao Yang](https://www.eng.mcmaster.ca/civil/faculty/dr-hao-yang/). I earned my master's degree in Robotics from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), advised by [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I also work closely with [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8) from [Chinese Academy of Sciences](http://english.siat.cas.cn/) and [Prof. Hongfei Xue](https://havocfixer.github.io/) from [University of North Carolina at Charlotte](https://www.charlotte.edu/).
+I am a first-year PhD student in [Transportation Engineering](https://www.eng.mcmaster.ca/civil/) at the [McMaster University](https://www.mcmaster.ca/), supervised by [Dr. Hao Yang](https://www.eng.mcmaster.ca/civil/faculty/dr-hao-yang/). I earned my master's degree in Robotics from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), advised by [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I also work closely with [Prof. Hongfei Xue](https://havocfixer.github.io/) from [University of North Carolina at Charlotte](https://www.charlotte.edu/) and [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8) from [Chinese Academy of Sciences](http://english.siat.cas.cn/).
 
 My research focuses on the intersection of transportation engineering, wireless sensing, and Artificial Intelligence, with a particular emphasis on developing smart systems for intelligent transportation and traffic management.
 
@@ -17,8 +17,8 @@ Email:tangk41@mcmaster.ca
 
 Research Interests
 ======
-* Connected Autonomous Vehicles, Optimization Theory
-* Wireless Sensing, Render-based Simulation, Machine Learning
+* Shared Mobility, Connected Autonomous Vehicles, Optimization Theory
+* Wireless Sensing, Rendering-based Simulation, Machine Learning
 * Source Localization, Signal Processing
 
 Education
