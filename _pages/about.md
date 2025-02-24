@@ -32,7 +32,7 @@ Education
 
 Current Projects
 ======
-* May 2023 - : PhD Research Project
+* Jan. 2025 - : PhD Research Project
   * Topic: Design and Pridiction for the Next Generation of Ridesharing Systems
   * Supervisor: [Prof. Hao Yang](https://www.eng.mcmaster.ca/civil/faculty/dr-hao-yang/)
   * Mcmaster University
@@ -62,6 +62,7 @@ Past Experience
 Publications
 ======
 * K. Tang, S. Xu, Y. Yang, H. Kong and Y. Ma, "Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization," 2024 IEEE Radar Conference (RadarConf24), Denver, CO, USA, 2024, pp. 1-6, doi: [10.1109/RadarConf2458775.2024.10548509](https://ieeexplore.ieee.org/document/10548509).
+* K. Tang, X. Li, S. Xu, etc., "optimal Sensor Placement Using Decentralized TDOA Sensor System", submitted to IEEE Trans.
 
   
 Teaching Assistant
