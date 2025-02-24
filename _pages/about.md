@@ -63,7 +63,7 @@ Publications
 ======
 * K. Tang, S. Xu, Y. Yang, H. Kong and Y. Ma, "Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization," 2024 IEEE Radar Conference (RadarConf24), Denver, CO, USA, 2024, pp. 1-6, doi: [10.1109/RadarConf2458775.2024.10548509](https://ieeexplore.ieee.org/document/10548509).
 * K. Tang, X. Li, S. Xu, etc., "Optimal Sensor Placement Using Decentralized TDOA Sensor Systems", submitted to IEEE Trans.
-* Yongsheng Ma, Kang Tang, etc., "A kind of Lidar," 2023 Chinese Patent, CN202211453360.8.
+* Yongsheng Ma, Kang Tang, etc., "A Kind of Novel Lidar System," 2023 Chinese Patent, CN202211453360.8.
 
   
 Teaching Assistant
