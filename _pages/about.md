@@ -54,7 +54,7 @@ Past Experience
   * Topic: Optimal Sensor Placement in Source Localization and Tracking
   * Supervisor: Prof. Yongsheng Ma
     
-* Sep. 2022 - May 2023: Research project
+* Sep. 2022 - May 2023: Master's Research Project
   * Southern University of Science and Technology
   * Topic: Event Camera-based Simultaneous Localization and Mapping (SLAM)
   * Supervisor: Prof. Yongsheng Ma
