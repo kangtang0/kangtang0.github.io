@@ -62,7 +62,7 @@ Past Experience
 Publications
 ======
 * K. Tang, S. Xu, Y. Yang, H. Kong and Y. Ma, "Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization," 2024 IEEE Radar Conference (RadarConf24), Denver, CO, USA, 2024, pp. 1-6, doi: [10.1109/RadarConf2458775.2024.10548509](https://ieeexplore.ieee.org/document/10548509).
-* K. Tang, X. Li, S. Xu, etc., "optimal Sensor Placement Using Decentralized TDOA Sensor System", submitted to IEEE Trans.
+* K. Tang, X. Li, S. Xu, etc., "Optimal Sensor Placement Using Decentralized TDOA Sensor Systems", submitted to IEEE Trans.
 
   
 Teaching Assistant
