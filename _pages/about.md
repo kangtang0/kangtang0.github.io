@@ -44,7 +44,7 @@ Current Projects
     
 * Jun. 2024 - : Research Cooperation (online)
   * Topic: Information-based Target Localization and Tracking with Wireless Sensor Networks
-  * Supervisor: Prof. Sheng Xu
+  * Supervisor: [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8)
   * Chinese Academy of Sciences
 
 Past Experience
