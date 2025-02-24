@@ -12,7 +12,7 @@ I am a first-year PhD student in [Transportation Engineering](https://www.eng.mc
 
 My research focuses on the intersection of multi-vehicle systems, wireless sensing, and artificial intelligence, with a particular emphasis on developing smart systems for intelligent transportation and traffic management.
 
-Email:tangk41@mcmaster.ca
+Email: tangk41@mcmaster.ca
 
 
 Research Interests
