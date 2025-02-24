@@ -30,20 +30,30 @@ Education
 * B.E. in Mechanical Engineering, 2019
   * Southern University of Science and Technology, Shenzhen, China
 
-Experience
+Current Projects
 ======
-* May 2023 - : Research Intern
-  * University of North Carolina at Charlotte
+* May 2023 - : PhD Research Project
+  * Topic: Design and Pridiction for the Next Generation of Ridesharing Systems
+  * Supervisor: [Prof. Hao Yang](https://www.eng.mcmaster.ca/civil/faculty/dr-hao-yang/)
+  * Mcmaster University
+    
+* May 2023 - : Research Cooperation (online)
   * Topic: mmWave-based Human Reconstruction Using Computer Graphics and Deep Learning Tools
   * Supervisor: [Prof. Hongfei Xue](https://havocfixer.github.io/)
-* Jun. 2024 - Aug. 2024: Research Assistant
-  * Chinese Academy of Sciences
-  * Topic: Information-based Target Localization and Tracking with Multi-robot System
+  * University of North Carolina at Charlotte
+    
+* Jun. 2024 - : Research Cooperation (online)
+  * Topic: Information-based Target Localization and Tracking with Wireless Sensor Networks
   * Supervisor: Prof. Sheng Xu
+  * Chinese Academy of Sciences
+
+Past Experience
+======
 * Feb. 2023 - Jun. 2024: Master's Thesis
   * Southern University of Science and Technology
   * Topic: Optimal Sensor Placement in Source Localization and Tracking
   * Supervisor: Prof. Yongsheng Ma
+    
 * Sep. 2022 - May 2023: Research project
   * Southern University of Science and Technology
   * Topic: Event Camera-based Simultaneous Localization and Mapping (SLAM)
