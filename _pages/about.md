@@ -38,7 +38,7 @@ Current Projects
   * Mcmaster University
     
 * May 2023 - : Research Cooperation (online)
-  * Topic: mmWave-based Human Reconstruction Using Computer Graphics and Deep Learning Tools
+  * Topic: Towards Generalized mmWave-based Human Mesh Reconstruction Via Signal Ray Tracing
   * Supervisor: [Prof. Hongfei Xue](https://havocfixer.github.io/)
   * University of North Carolina at Charlotte
     
