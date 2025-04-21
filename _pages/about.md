@@ -27,7 +27,7 @@ Education
   * McMaster University, Hamilton, ON, Cnanada
 * M.E. in Robotics, 2024
   * Southern University of Science and Technology, Shenzhen, China
-* B.E. in Mechanical Engineering, 2019
+* B.E. in Mechanical Engineering
   * Southern University of Science and Technology, Shenzhen, China
 
 Current Projects
