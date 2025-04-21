@@ -25,7 +25,7 @@ Education
 ======
 * PhD. in Transportation Engineering, 2025-
   * McMaster University, Hamilton, ON, Cnanada
-* M.E. in Robotics, 2024
+* M.E. in Robotics Engineering, 2024
   * Southern University of Science and Technology, Shenzhen, China
 * B.E. in Mechanical Engineering
   * Southern University of Science and Technology, Shenzhen, China
