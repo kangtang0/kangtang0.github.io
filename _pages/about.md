@@ -24,7 +24,7 @@ Research Interests
 Education
 ======
 * PhD. in Transportation Engineering, 2025-
-  * McMaster University, ON, Cnanada
+  * McMaster University, Hamilton, ON, Cnanada
 * M.E. in Robotics, 2024
   * Southern University of Science and Technology, Shenzhen, China
 * B.E. in Mechanical Engineering, 2019
