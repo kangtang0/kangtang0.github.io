@@ -32,18 +32,15 @@ Education
 
 Current Projects
 ======
-* Jan. 2025 - : 
-  * Topic: Design and Pridiction for the Next Generation of Ridesharing Systems
+* Design and Pridiction for the Next Generation of Ridesharing Systems
   * Supervisor: [Prof. Hao Yang](https://www.eng.mcmaster.ca/civil/faculty/dr-hao-yang/)
   * McMaster University
     
-* May 2023 - : 
-  * Topic: Towards Generalized mmWave-based Human Mesh Reconstruction Via Signal Ray Tracing
+* Towards Generalized mmWave-based Human Mesh Reconstruction Via Signal Ray Tracing
   * Supervisor: [Prof. Hongfei Xue](https://havocfixer.github.io/)
   * University of North Carolina at Charlotte
     
-* Jun. 2024 - : 
-  * Topic: Information-based Target Localization and Tracking with Wireless Sensor Networks
+* Information-based Target Localization and Tracking with Wireless Sensor Networks
   * Supervisor: [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8)
   * Chinese Academy of Sciences
 
