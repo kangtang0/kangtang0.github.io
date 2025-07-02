@@ -48,9 +48,9 @@ Current Projects
 Publications
 ======
 * K. Tang, S. Xu, Y. Yang, H. Kong and Y. Ma, "Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization," 2024 IEEE Radar Conference (RadarConf24), Denver, CO, USA, 2024, pp. 1-6, doi: [10.1109/RadarConf2458775.2024.10548509](https://ieeexplore.ieee.org/document/10548509).
-* K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Comparative Evaluation of Battery Electric and Internal Combustion Vehicles in On‑Demand Shared‑Ride Services: Energy and Operational Efficiency", accepted by IEEE ITSC.
+* K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Comparative Evaluation of Battery Electric and Internal Combustion Vehicles in On‑Demand Shared‑Ride Services: Energy and Operational Efficiency", accepted by IEEE ITSC 2025.
 * K. Tang, X. Li, S. Xu, K. C. Ho, H. Kong and K. Dogancay, "Optimal Sensor Placement Using Decentralized TDOA Sensor Systems in Target Localization", submitted to IEEE Trans.
-* Yongsheng Ma, Kang Tang, etc., "A Kind of Novel Lidar System," 2023 Chinese Patent, CN202211453360.8.
+* K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Service and Energy Trade-offs in Mixed BEV–ICEV On-Demand Shared‑Ride Mobility Shared‑Ride", to be submitted to TRB Annual Meeting 2026.
 
   
 Teaching Assistant
