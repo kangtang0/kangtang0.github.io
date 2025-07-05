@@ -51,6 +51,7 @@ Publications
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Comparative Evaluation of Battery Electric and Internal Combustion Vehicles in On‑Demand Shared‑Ride Services: Energy and Operational Efficiency", accepted by IEEE ITSC 2025.
 * K. Tang, X. Li, S. Xu, K. C. Ho, H. Kong and K. Dogancay, "Optimal Sensor Placement Using Decentralized TDOA Sensor Systems in Target Localization", submitted to IEEE Trans.
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Service and Energy Trade-offs in Mixed BEV–ICEV On-Demand Shared‑Ride Mobility", to be submitted.
+* K. Tang, S. Xu, and K. C. Ho, "A Unified Group-Theoretic Tight-Frame Approach for Optimal Sensor Placement in 3D Hybrid AOA-RSS-TOA Localization", to be submitted.
 
   
 Teaching Assistant
