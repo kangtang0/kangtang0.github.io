@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in [Transportation Engineering](https://www.eng.mcmaster.ca/civil/) at the [McMaster University](https://www.mcmaster.ca/), supervised by [Dr. Hao Yang](https://www.eng.mcmaster.ca/civil/faculty/dr-hao-yang/). I earned my master's degree in Robotics from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), advised by [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I also work closely with [Prof. Hongfei Xue](https://havocfixer.github.io/) from [University of North Carolina at Charlotte](https://www.charlotte.edu/) and [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8) from [Chinese Academy of Sciences](http://english.siat.cas.cn/).
+I am a graduate student in [Transportation Engineering](https://www.eng.mcmaster.ca/civil/) at the [McMaster University](https://www.mcmaster.ca/), supervised by Dr. Yang. I earned my master's degree in Robotics from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), advised by [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I also work closely with [Prof. Hongfei Xue](https://havocfixer.github.io/) from [University of North Carolina at Charlotte](https://www.charlotte.edu/) and [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8) from [Chinese Academy of Sciences](http://english.siat.cas.cn/).
 
 I have a solid foundation in mathematics, including statistical signal processing, group theory, frame theory, matrix theory, and optimization theory, with a particular focus on their applications in wireless networks and other applications. I am passionate about mathematical theory.
 
@@ -33,7 +33,7 @@ Education
 Current Projects
 ======
 * Data-driven Prediction for On-demand Dynamic Shared Autonomous Vehicles Systems
-  * Supervisor: [Prof. Hao Yang](https://www.eng.mcmaster.ca/civil/faculty/dr-hao-yang/)
+  * Supervisor: Prof. Yang
   * McMaster University
     
 * Towards Generalized mmWave-based Human Mesh Reconstruction Via Signal Ray Tracing
