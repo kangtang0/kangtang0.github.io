@@ -56,7 +56,8 @@ Publications
   
 Teaching Assistant
 ======
-* MEE 5201 - Innovation Design Theory and Application, Fall 2021
+* CIVENG 2A03 - Surveying and Measurement for Transportation, Fall 2025, McMaster University
+* MEE 5201 - Innovation Design Theory and Application, Fall 2021, Southern University of Science and Technology
 
 Awards
 ======
