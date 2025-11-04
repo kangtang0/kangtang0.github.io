@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD condidate in [Transportation Engineering](https://www.eng.mcmaster.ca/civil/) at the [McMaster University](https://www.mcmaster.ca/), supervised by Dr. Hao Yang. I earned my master's degree in Robotics from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), advised by [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I also work closely with [Prof. Hongfei Xue](https://havocfixer.github.io/) from [University of North Carolina at Charlotte](https://www.charlotte.edu/) and [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8) from [Chinese Academy of Sciences](http://english.siat.cas.cn/).
+I am a PhD candidate in [Transportation Engineering](https://www.eng.mcmaster.ca/civil/) at the [McMaster University](https://www.mcmaster.ca/), supervised by Dr. Hao Yang. I earned my master's degree in Robotics from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), advised by [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I also work closely with [Prof. Hongfei Xue](https://havocfixer.github.io/) from [University of North Carolina at Charlotte](https://www.charlotte.edu/) and [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8) from [Chinese Academy of Sciences](http://english.siat.cas.cn/).
 
 Email: tangk41@mcmaster.ca
 
@@ -21,7 +21,7 @@ Research Interests
 
 Education
 ======
-* PhD. in Transportation Engineering, 2025-
+* PhD. in Transportation Engineering, 2025-2028
   * McMaster University, Hamilton, ON, Cnanada
 * M.E. in Robotics Engineering, 2024
   * Southern University of Science and Technology, Shenzhen, China
