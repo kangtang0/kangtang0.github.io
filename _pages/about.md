@@ -15,9 +15,9 @@ Email: tangk41@mcmaster.ca
 
 Research Interests
 ======
-* Statistical Signal Processing, Wireless Communications, Source Localization
 * Shared Mobility, Demand Prediction, Rebalancing, Charging Optimization
 * Wireless Sensing, Rendering-based Simulation, Machine Learning
+* Statistical Signal Processing, Source Localization
 
 Education
 ======
