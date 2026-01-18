@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kang Tang (唐康)"
+title                    : "Kang Tang"
 title_separator          : "-"
 name                     : &name "Kang Tang"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kang Tang (唐康)"
-  avatar           : "profile.jpg"
-  bio              : "PhD. student @ McMaster"
+  name             : "Kang Tang"
+  avatar           : "kang_ani"
+  bio              : "PhD. candidate @ McMaster"
   location         : "Hamilton, ON, Canada"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
