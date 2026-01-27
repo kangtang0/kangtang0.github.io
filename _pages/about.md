@@ -45,16 +45,15 @@ Current Projects
 
 Publications
 ======
-* K. Tang, S. Xu, Y. Yang, H. Kong and Y. Ma, "Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization," 2024 IEEE Radar Conference (RadarConf24), Denver, CO, USA, 2024, pp. 1-6, doi: [10.1109/RadarConf2458775.2024.10548509](https://ieeexplore.ieee.org/document/10548509).
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Comparative Evaluation of Battery Electric and Internal Combustion Vehicles in On‑Demand Shared‑Ride Services: Energy and Operational Efficiency", accepted by IEEE ITSC 2025.
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Energy and Operational Efficiency of Shared Autonomous fleet Powered with Battery Electric and Internal Combustion Engine Technologies", [SAE Technical Paper 2026-01-0464, 2026](https://saemobilus.sae.org/papers/energy-operational-efficiency-shared-autonomous-fleet-2026-01-0464).
+* K. Tang, S. Xu, Y. Yang, H. Kong and Y. Ma, "Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization," 2024 IEEE Radar Conference (RadarConf24), Denver, CO, USA, 2024, pp. 1-6, doi: [10.1109/RadarConf2458775.2024.10548509](https://ieeexplore.ieee.org/document/10548509).
 * K. Tang, X. Li, S. Xu, K. C. Ho, H. Kong and K. Dogancay, "Optimal Sensor Placement Using Decentralized TDOA Sensor Systems in Target Localization", submitted to IEEE Trans.
-* K. Tang, S. Xu, and K. C. Ho, "A Unified Group-Theoretic Tight-Frame Approach for Optimal Sensor Placement in 3D Hybrid AOA-RSS-TOA Localization", to be submitted to IEEE TSP.
 
   
 Teaching Assistant
 ======
-* CIVENG 2A03 - Surveying and Management for Transportation, Fall 2025, McMaster University
+* CIVENG 2A03 - Surveying and Measurement for Transportation, Fall 2025, McMaster University
 * MEE 5201 - Innovation Design Theory and Application, Fall 2021, Southern University of Science and Technology
 
 Awards
