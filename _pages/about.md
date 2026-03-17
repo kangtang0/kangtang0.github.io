@@ -63,6 +63,6 @@ Awards
 
 Reviewer
 ======
-* IEEE ITSC 2025
+* IEEE ITSC 2025/2026
 * TRB 2026
 * IEEE IV 2026
