@@ -35,11 +35,11 @@ Current Projects
   * McMaster University
     
 * Towards Generalized mmWave-based Human Mesh Reconstruction Via Signal Ray Tracing
-  * Supervisor: [Prof. Hongfei Xue](https://havocfixer.github.io/)
+  * Supervisor: Prof. Hongfei Xue
   * University of North Carolina at Charlotte
     
 * Information-based Target Localization and Tracking with Wireless Sensor Networks
-  * Supervisor: [Prof. Sheng Xu](https://www.researchgate.net/profile/Sheng-Xu-8)
+  * Supervisor: Prof. Sheng Xu
   * Chinese Academy of Sciences
 
 
