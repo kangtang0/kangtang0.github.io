@@ -45,7 +45,7 @@ Current Projects
 
 Publications
 ======
-* K. Tang, H. Abdulsattar, H. Yang and J. Wang, "From Tipping to Operability: Efficiency-Reliability Trade-offs in Mixed-Fleet Mobility-on-Demand," accepted by ITSC 2026.
+* K. Tang, H. Yang, H. Abdulsattar and J. Wang, "From Tipping to Operability: Efficiency-Reliability Trade-offs in Mixed-Fleet Mobility-on-Demand," accepted by ITSC 2026.
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Energy and Operational Efficiency of Shared Autonomous fleet Powered with Battery Electric and Internal Combustion Engine Technologies", WCX SAE World Congress Experience, Detroit, Michigan, United States, April 14, 2026, [http://doi.org/10.4271/2026-01-0464](https://doi.org/10.4271/2026-01-0464).
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Comparative Evaluation of Battery Electric and Internal Combustion Vehicles in On-Demand Shared-Ride Services: Energy and Operational Efficiency," 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC), Gold Coast, Australia, 2025, pp. 4626-4632, doi: [10.1109/ITSC60802.2025.11423101](https://ieeexplore.ieee.org/document/11423101).
 * K. Tang, S. Xu, Y. Yang, H. Kong and Y. Ma, "Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization," 2024 IEEE Radar Conference (RadarConf24), Denver, CO, USA, 2024, pp. 1-6, doi: [10.1109/RadarConf2458775.2024.10548509](https://ieeexplore.ieee.org/document/10548509).
