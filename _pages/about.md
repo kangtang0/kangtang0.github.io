@@ -50,6 +50,7 @@ Publications
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Comparative Evaluation of Battery Electric and Internal Combustion Vehicles in On-Demand Shared-Ride Services: Energy and Operational Efficiency," 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC), Gold Coast, Australia, 2025, pp. 4626-4632, doi: [10.1109/ITSC60802.2025.11423101](https://ieeexplore.ieee.org/document/11423101).
 * K. Tang, S. Xu, Y. Yang, H. Kong and Y. Ma, "Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization," 2024 IEEE Radar Conference (RadarConf24), Denver, CO, USA, 2024, pp. 1-6, doi: [10.1109/RadarConf2458775.2024.10548509](https://ieeexplore.ieee.org/document/10548509).
 * K. Tang, X. Li, S. Xu, K. C. Ho, H. Kong and K. Dogancay, "Optimal Sensor Placement Using Decentralized TDOA Sensor Systems in Target Localization", submitted to IEEE Trans.
+* K. Tang, K. C. Ho, and S. Xu, "Optimal Sensor Placement for 3D Localization Using Freely Combination of AOA-RSS-TOA Observations via Group Theory and Tight Frames", submitted to IEEE Trans.
 
   
 Teaching Assistant
