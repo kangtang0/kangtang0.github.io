@@ -45,7 +45,7 @@ Current Projects
 
 Publications
 ======
-* K. Tang, X. Li, S. Xu, K. C. Ho, H. Kong and K. Dogancay, "Optimal Sensor Placement Using Decentralized TDOA Sensor Systems in Target Localization", accepted by IEEE Transactions on Aerospace and Electronic Systems.
+* K. Tang, S. Xu, X. Li, K. C. Ho, H. Kong and K. Do˘ ganc¸ay, "Optimal Sensor Placement Using Decentralized TDOA Sensor Network in Source Localization," in IEEE Transactions on Aerospace and Electronic Systems, [doi: 10.1109/TAES.2026.3721471](https://ieeexplore.ieee.org/document/11644072).
 * K. Tang, H. Yang, H. Abdulsattar and J. Wang, "From Tipping to Operability: Efficiency-Reliability Trade-offs in Mixed-Fleet Mobility-on-Demand," accepted by ITSC 2026.
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Energy and Operational Efficiency of Shared Autonomous fleet Powered with Battery Electric and Internal Combustion Engine Technologies", WCX SAE World Congress Experience, Detroit, Michigan, United States, April 14, 2026, [http://doi.org/10.4271/2026-01-0464](https://doi.org/10.4271/2026-01-0464).
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Comparative Evaluation of Battery Electric and Internal Combustion Vehicles in On-Demand Shared-Ride Services: Energy and Operational Efficiency," 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC), Gold Coast, Australia, 2025, pp. 4626-4632, doi: [10.1109/ITSC60802.2025.11423101](https://ieeexplore.ieee.org/document/11423101).
