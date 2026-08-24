@@ -55,6 +55,7 @@ Publications
   
 Teaching Assistant
 ======
+* CIVENG 3C03 - Engineering Systems, Fall 2026, McMaster University
 * CIVENG 2A03 - Surveying and Measurement for Transportation, Fall 2025, McMaster University
 * MEE 5201 - Innovation Design Theory and Application, Fall 2021, Southern University of Science and Technology
 
@@ -66,5 +67,5 @@ Awards
 Reviewer
 ======
 * IEEE ITSC 2025/2026
-* TRB 2026
+* TRB 2026/2027
 * IEEE IV 2026
