@@ -66,6 +66,7 @@ Awards
 
 Reviewer
 ======
+* IEEE Communications Letters
 * IEEE ITSC 2025/2026
 * TRB 2026/2027
 * IEEE IV 2026
